@@ -191,5 +191,9 @@ h1{
         height: 100px;
         width: 100px;
     }
+
+    .score > h4 {
+        font-size:0.6em ;
+    }
 }
 
